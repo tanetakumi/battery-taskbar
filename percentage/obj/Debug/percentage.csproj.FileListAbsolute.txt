@@ -1,0 +1,13 @@
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\bin\Debug\percentage.exe.config
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\bin\Debug\percentage.exe.manifest
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\bin\Debug\percentage.application
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\bin\Debug\percentage.exe
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\bin\Debug\percentage.pdb
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.csproj.AssemblyReference.cache
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.Properties.Resources.resources
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.csproj.GenerateResource.cache
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.csproj.CoreCompileInputs.cache
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.exe.manifest
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.application
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.exe
+C:\Users\nutan\Desktop\Programs\percentage\percentage\percentage\obj\Debug\percentage.pdb
